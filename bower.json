@@ -1,0 +1,29 @@
+{
+  "name": "neobitcoin-message",
+  "main": "./neobitcoin-message.min.js",
+  "version": "1.0.0",
+  "homepage": "https://github.com/neobitcoin-official/neobitcoin-message",
+  "authors": [
+    "BitPay"
+  ],
+  "description": "Actinium Message Verification and Signing for NeoBitcoin",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "actinium",
+    "neobitcoin",
+    "dogec",
+    "satoshi",
+    "message",
+    "signing"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
